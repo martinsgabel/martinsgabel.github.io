@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #00010D;
+    color: #DFE7F2;
+}
+
+a{
+    color: #778da9;
+}
+
+h1 {
+    text-align: center;
+    color:#778da9;
+    font-size: 48px;
+    padding: 60px;
+    padding-bottom: 1px;
+}
+
+h3 {
+    color: #778da9;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+img {
+    width: 200px;
+}
+
+.descrição {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+nav {
+    background-color: #1b263b;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #DFE7F2;
+}
+
+nav a:hover {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #e0e1dd;
+    color: #00010D;
+    transition: 0.34s;
+}
+
+div {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-bottom: solid #e0e1dd34 1px;
+}
+
+#habilidades li {
+    margin-left: 50px;
+    list-style-type:circle;
+    padding: 3px;
+}
+
+hr {
+    
+    margin: 0 auto;
+}
